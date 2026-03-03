@@ -1,5 +1,4 @@
-- 👋 Hi, I’m ~~Lakshigan Jeyanth~~ Jeyanth
-- 🤦‍♂️ **New** to GitHub and this coding world 🥱
+- 👋 Hi, I’m Lakshigan Jeyanth
 - 📫 How to reach me jeynthjeya@gamil.com
 - 🙋‍♂️ Interested in 🦾 **robotics** 🦿 and **Computer related things** ✌
 
